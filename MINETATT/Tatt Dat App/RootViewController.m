@@ -23,6 +23,7 @@
 @implementation RootViewController
 @synthesize imageView,imageViewTatoo;
 //@synthesize tphoto ,tphotoFromLibrary ,tphotoFromFacebook ,tphotoFromTwitter ,tphotoSelf, tphotoTatoo;
+// updated data
 @synthesize imageBody,imageTattoo;
 @synthesize actionSheet1,actionSheet2;
 @synthesize fCounter,fbFriendCounter;
